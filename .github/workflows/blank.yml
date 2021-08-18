@@ -24,8 +24,8 @@ jobs:
       - uses: actions/checkout@v2
 
       # Runs a single command using the runners shell
-      - name: 한줄 스크립트 실행
-        run: echo Hello, world!
+      - name: 강제로 실패할 때
+        run: echo "Force to be failed.";  exit 1
 
       # Runs a set of commands using the runners shell
       - name: 여러줄 스크립트 실행
