@@ -1,1 +1,2 @@
-console.log("ok");
+console.log("turn to be ok");
+process.exit(0);
