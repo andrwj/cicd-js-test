@@ -1,0 +1,20 @@
+{
+  "name": "cicd-js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrwj/cicd-js-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrwj/cicd-js-test/issues"
+  },
+  "homepage": "https://github.com/andrwj/cicd-js-test#readme"
+}
